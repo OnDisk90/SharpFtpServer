@@ -1,6 +1,6 @@
 # Sharp Ftp Server
 
-This software has been for internal using for transfer files with ip54 ftp
+This software has been for internal using for transfer files with ip4 ftp
 It is a console application using Dot net version 4.8.
 
 The original was taking from
